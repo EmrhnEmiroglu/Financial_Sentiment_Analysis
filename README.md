@@ -31,5 +31,4 @@ Bu nedenle model performansı değerlendirilirken F1-score metriği esas alınm�
 
 ## Dosyalar
 - `finalproje.ipynb` : Proje notebook dosyası
-## Not
-Bu proje bir üniversite dersi kapsamında hazırlanmıştır.
+
